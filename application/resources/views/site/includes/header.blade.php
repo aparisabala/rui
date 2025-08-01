@@ -52,98 +52,33 @@
                         <div class="main-menu-area">
                             <nav>
                                 <ul>
-                                    <li><a href="#">Home</a>
+                                    <li>
+                                        <a href="#">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">About Us </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Services</a>
                                         <ul class="rt-dropdown-menu">
-                                            <li><a href="index.html">Home Layout 1</a></li>
-                                            <li><a href="index2.html">Home Layout 2</a></li>
-                                            <li><a href="index3.html">Home Layout 3</a></li>
-                                            <li><a href="index4.html">Home Layout 4</a></li>
-                                            <li><a href="index5.html">Home Layout 5</a></li>
-                                            <li><a href="index6.html">Home Layout 6</a></li>
+                                            <li><a href="#">Shipping</a></li>
+                                            <li><a href="#">Logistics</a></li>
+                                            <li><a href="#">Manpower</a></li>
+                                            <li><a href="#">C&F </a></li>
+                                            <li><a href="#">Concrete Block </a></li>
+                                            <li><a href="#">Warehouse</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">About</a>
-                                        <ul class="rt-dropdown-menu">
-                                            <li><a href="about1.html">About Layout 1</a></li>
-                                            <li><a href="about2.html">About Layout 2</a></li>
-                                        </ul>
+                                    <li>
+                                        <a href="#">Management</a>
                                     </li>
-                                    <li class="menu-justify"><a href="#">Pages</a>
-                                        <div class="rt-dropdown-mega container">
-                                            <div class="rt-dropdown-inner">
-                                                <div class="row">
-                                                    <div class="col-sm-3">
-                                                        <h3>Team Layout</h3>
-                                                        <ul class="rt-mega-items">
-                                                            <li><a href="team1.html">Team Layout 1</a></li>
-                                                            <li><a href="team2.html">Team Layout 2</a></li>
-                                                            <li><a href="team3.html">Team Layout 3</a></li>
-                                                            <li><a href="single-team.html">Single Team</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-sm-3">
-                                                        <h3>Portfolio Layout</h3>
-                                                        <ul class="rt-mega-items">
-                                                            <li><a href="portfolio1.html">Portfolio Layout 1</a></li>
-                                                            <li><a href="portfolio2.html">Portfolio Layout 2</a></li>
-                                                            <li><a href="portfolio3.html">Portfolio Layout 3</a></li>
-                                                            <li><a href="single-portfolio.html">Single Portfolio</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-sm-3">
-                                                        <h3>Service Layout</h3>
-                                                        <ul class="rt-mega-items">
-                                                            <li><a href="service1.html">Service Layout 1</a></li>
-                                                            <li><a href="service2.html">Service Layout 2</a></li>
-                                                            <li><a href="service3.html">Service Layout 3</a></li>
-                                                            <li><a href="single-service.html">Single Service</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-sm-3">
-                                                        <h3>Other Layout</h3>
-                                                        <ul class="rt-mega-items">
-                                                            <li><a href="case-studies.html">Case Studies</a></li>
-                                                            <li><a href="single-case.html">Case Details</a></li>
-                                                            <li><a href="faqs.html">Faq's</a></li>
-                                                            <li><a href="404.html">404 Page</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                    <li>
+                                        <a href="#">Achievements</a>
                                     </li>
-                                    <li><a href="#">Services</a>
-                                        <ul class="rt-dropdown-menu">
-                                            <li><a href="service1.html">Service Layout 1</a></li>
-                                            <li><a href="service2.html">Service Layout 2</a></li>
-                                            <li><a href="service3.html">Service Layout 3</a></li>
-                                            <li><a href="single-service.html">Single Service</a></li>
-                                        </ul>
+                                    <li>
+                                        <a href="#">Gallery</a>
                                     </li>
-                                    <li><a href="#">Case Studies</a>
-                                        <ul class="rt-dropdown-menu">
-                                            <li><a href="case-studies.html">Case Studies</a></li>
-                                            <li><a href="single-case.html">Case Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">News</a>
-                                        <ul class="rt-dropdown-menu">
-                                            <li><a href="news1.html">News Layout 1</a></li>
-                                            <li><a href="news2.html">News Layout 2</a></li>
-                                            <li><a href="news3.html">News Layout 3</a></li>
-                                            <li><a href="single-news.html">News Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Shop</a>
-                                        <ul class="rt-dropdown-menu">
-                                            <li><a href="shop1.html">Shop Layout 1</a></li>
-                                            <li><a href="shop2.html">Shop Layout 2</a></li>
-                                            <li><a href="single-shop.html">Shop Details</a></li>
-                                            <li><a href="cart.html">View Cart</a></li>
-                                            <li><a href="check-out.html">Checkout</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="#">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
