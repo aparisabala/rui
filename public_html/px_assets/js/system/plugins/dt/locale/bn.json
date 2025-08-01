@@ -1,0 +1,17 @@
+{
+	"sProcessing":   "প্রসেসিং হচ্ছে...",
+	"sLengthMenu":   "_MENU_ টা এন্ট্রি দেখুন",
+	"sZeroRecords":  "আপনি যা অনুসন্ধান করেছেন তার সাথে মিলে যাওয়া কোন রেকর্ড খুঁজে পাওয়া যায় নাই",
+	"sInfo":         " _START_ - _END_ টোটাল  _TOTAL_",
+	"sInfoEmpty":    "কোন এন্ট্রি খুঁজে পাওয়া যায় নাই",
+	"sInfoFiltered": "(মোট _MAX_ টা এন্ট্রির মধ্যে থেকে বাছাইকৃত)",
+	"sInfoPostFix":  "",
+	"sSearch":       "অনুসন্ধান:",
+	"sUrl":          "",
+	"oPaginate": {
+		"sFirst":    "প্রথমটা",
+		"sLast":     "শেষেরটা",
+		"sNext":     " &#8594; ",
+		"sPrevious": " &#8592; "
+	}
+}

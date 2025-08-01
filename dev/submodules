@@ -1,0 +1,9 @@
+[submodule "application/app/Traits/PxTraits"]
+	path = application/app/Traits/PxTraits
+	url = https://github.com/aparisabala/pxtraits
+[submodule "public_html/px_assets"]
+	path = public_html/px_assets
+	url = https://github.com/aparisabala/px_assets
+[submodule "application/app/Console/Commands"]
+	path = application/app/Console/Commands
+	url = https://github.com/aparisabala/pxcommand
