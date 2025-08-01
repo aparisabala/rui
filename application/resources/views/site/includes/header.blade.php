@@ -32,12 +32,13 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-3">
                         <div class="logo-area">
-                            <a href="index.html"><img src="{{config('i.logo')}}" alt="logo" class="img-responsive"></a>
+                            <a href="{{config('i.')}}"><img src="{{config('i.logo')}}" alt="logo" class="img-responsive"></a>
                         </div>
                     </div>
                     <div class="col-lg-8 col-md-8 col-sm-9">
                         <ul class="header-address">
-                           <li><i class="fa fa-map-marker" aria-hidden="true"></i> 58 Agrabad(C/A),Chittagong,BD<span>Corporate Ofice Location</span></li>
+                            <li><i class="fa fa-phone" aria-hidden="true"></i>+880-31-725991,725992<span>Hot Line Number</span></li>
+                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>58 Agrabad(C/A),Chittagong,BD<span>Corporate Ofice Location</span></li>
                             <li><i class="fa fa-clock-o" aria-hidden="true"></i>Mon - 8.00 - 18.00<span>Ofice Location</span></li>
                         </ul>
                     </div>
