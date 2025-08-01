@@ -7,9 +7,9 @@
                     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
                         <div class="top-address">
                             <ul>
-                                <li><i class="fa fa-map-marker" aria-hidden="true"></i>1PO Box Collins Street West, Australia</li>
-                                <li><i class="fa fa-phone" aria-hidden="true"></i>+61 3 8376 6284</li>
-                                <li><i class="fa fa-envelope-o" aria-hidden="true"></i>info@finacneco.com</li>
+                                <li><i class="fa fa-map" aria-hidden="true"></i>58 Agrabad(C/A),Chittagong,BD</li>
+                                <li><i class="fa fa-phone" aria-hidden="true"></i>+880-31-725991,725992</li>
+                                <li><i class="fa fa-envelope-o" aria-hidden="true"></i>info@ruyiholdingsltd.com</li>
                             </ul>
                         </div>
                     </div>
@@ -37,8 +37,7 @@
                     </div>
                     <div class="col-lg-8 col-md-8 col-sm-9">
                         <ul class="header-address">
-                            <li><i class="fa fa-phone" aria-hidden="true"></i>+61 3 8376 6284<span>Hot Line Number</span></li>
-                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>Collins Street West, Australia<span>Corporate Ofice Location</span></li>
+                           <li><i class="fa fa-map-marker" aria-hidden="true"></i> 58 Agrabad(C/A),Chittagong,BD<span>Corporate Ofice Location</span></li>
                             <li><i class="fa fa-clock-o" aria-hidden="true"></i>Mon - 8.00 - 18.00<span>Ofice Location</span></li>
                         </ul>
                     </div>
