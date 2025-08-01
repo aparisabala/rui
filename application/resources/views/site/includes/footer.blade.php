@@ -60,7 +60,7 @@
     </div>
     <div class="copyright">
         <div class="container">
-            <p>&copy; 2017 Finance All Rights Reserved. Designed by<a target="_blank" href="{{url('/')}}" rel="nofollow"> {{config('i.service_name')}} </a></p>
+            <p>&copy; 2017 Finance All Rights Reserved. Designed by<a target="_blank" href="{{url('/')}}" rel="nofollow"> Virtustaffs </a></p>
         </div>
     </div>
 </footer>
