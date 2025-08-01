@@ -284,7 +284,7 @@
 <div class="our-case-studies-area">
     <div class="container">
         <div class="section-title section-title-center">
-            <h2>Our Case Studies</h2>
+            <h2>Our Achievements</h2>
             <p>Fimply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standardever since unknown printer took a galley.</p>
         </div>
         <div class="row">
