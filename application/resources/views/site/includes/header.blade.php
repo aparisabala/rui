@@ -39,7 +39,7 @@
                         <ul class="header-address">
                             <li><i class="fa fa-phone" aria-hidden="true"></i>+880-31-725991<span>Hot Line Number</span></li>
                             <li><i class="fa fa-map-marker" aria-hidden="true"></i>S. Alam Center, 58 Agrabad (C/A)<span>Chittagong,Bangladesh</span></li>
-                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Mon - 8.00 - 18.00<span>Ofice Time</span></li>
+                            <li><i class="fa fa-clock-o" aria-hidden="true"></i>Mon - 8.00 - 18.00<span>Office Time</span></li>
                         </ul>
                     </div>
                 </div>
