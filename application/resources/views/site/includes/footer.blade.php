@@ -11,7 +11,7 @@
                         <div class="footer-about">
                             <p>Fummy text of the printing antypesetting industry. Lorem Ipsum heen the industry's standard dummy text ever since theype.</p>
                         </div>
-                        <div class="footer-phone"><i class="fa fa-phone" aria-hidden="true"></i>5647-345-2224</div>
+                        <div class="footer-phone"><i class="fa fa-phone" aria-hidden="true"></i>+880-31-725991,725992</div>
                         <ul class="footer-social">
                             <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -60,7 +60,7 @@
     </div>
     <div class="copyright">
         <div class="container">
-            <p>&copy; 2017 Finance All Rights Reserved. Designed by<a target="_blank" href="{{url('/')}}" rel="nofollow"> Virtustaffs </a></p>
+            <p>&copy; 2025 {{config('i.service_name')}} All Rights Reserved. Designed by<a target="_blank" href="{{url('/')}}" rel="nofollow"> Virtustaffs </a></p>
         </div>
     </div>
 </footer>
