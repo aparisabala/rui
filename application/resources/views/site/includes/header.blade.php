@@ -37,7 +37,7 @@
                     </div>
                     <div class="col-lg-8 col-md-8 col-sm-9">
                         <ul class="header-address">
-                            <li><i class="fa fa-phone" aria-hidden="true"></i>+880-31-725991,725992<span>Hot Line Number</span></li>
+                            <li><i class="fa fa-phone" aria-hidden="true"></i>+880-31-725991<span>Hot Line Number</span></li>
                             <li><i class="fa fa-map-marker" aria-hidden="true"></i>58 Agrabad(C/A),Chittagong,BD<span>Corporate Ofice Location</span></li>
                             <li><i class="fa fa-clock-o" aria-hidden="true"></i>Mon - 8.00 - 18.00<span>Ofice Location</span></li>
                         </ul>
