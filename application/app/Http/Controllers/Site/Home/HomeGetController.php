@@ -14,8 +14,8 @@ class HomeGetController extends Controller
     public function __construct()
     {
     }
-    public function viewHomepage(Request $request)
+    public function viewHomePage(Request $request)
     {   
-        return view('site.pages.home.viewHomepage');
+        return view('site.pages.home.viewHomePage');
     }
 }
