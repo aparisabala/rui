@@ -60,7 +60,7 @@
     </div>
     <div class="copyright">
         <div class="container">
-            <p>&copy; 2025 {{config('i.service_name')}} All Rights Reserved. Designed by<a target="_blank" href="{{url('/')}}" rel="nofollow"> Virtustaffs </a></p>
+            <p>&copy; 2025 {{config('i.service_name')}} All Rights Reserved. Designed by<a target="_blank" href="https://virtustaffs.com/" rel="nofollow"> Virtustaffs </a></p>
         </div>
     </div>
 </footer>
