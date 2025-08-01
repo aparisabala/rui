@@ -7,7 +7,7 @@
                     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
                         <div class="top-address">
                             <ul>
-                                <li><i class="fa fa-map" aria-hidden="true"></i>S.Alam Cnter, 58 Agrabad, Commercial Area, Chittagong, BD</li>
+                                <li><i class="fa fa-map" aria-hidden="true"></i>S.Alam Center, 58 Agrabad, Commercial Area, Chittagong, BD</li>
                                 <li><i class="fa fa-phone" aria-hidden="true"></i>+880-31-725991,725992</li>
                                 <li><i class="fa fa-envelope-o" aria-hidden="true"></i>info@ruyiholdingsltd.com</li>
                             </ul>
